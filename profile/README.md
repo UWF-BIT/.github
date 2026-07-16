@@ -31,12 +31,12 @@ BIT is organized into focused teams, each with ownership over specific applicati
 
 > 🔒 Our repositories are private. Browse by team below.
 
-- 📊 [Business Intelligence](#) *(link coming soon)*
-- 💻 [Custom Development](#) *(link coming soon)*
-- 🗺️ [GIS](#) *(link coming soon)*
-- 🌐 [Web](#) *(link coming soon)*
-- 🖥️ [Information Technology](#) *(link coming soon)*
-- 📋 [Business Processes & Project Management](#) *(link coming soon)*
+- 📊 Business Intelligence *(link coming soon)*
+- 💻 Custom Development *(link coming soon)*
+- 🗺️ GIS *(link coming soon)*
+- 🌐 Web *(link coming soon)*
+- 🖥️ Information Technology *(link coming soon)*
+- 📋 Business Processes & Project Management *(link coming soon)*
 
 ---
 
@@ -84,7 +84,7 @@ BIT is organized into focused teams, each with ownership over specific applicati
 
 For support requests and project inquiries, please reach out to:
 
-**📧 [uwftech@uw.edu](mailto:uwftech@uw.edu)**
+**Email: [uwftech@uw.edu](mailto:uwftech@uw.edu)**
 
 Requests are routed through **Ryan Hutcheson** — [rshutch@uw.edu](mailto:rshutch@uw.edu)
 
