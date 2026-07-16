@@ -20,8 +20,9 @@ BIT is organized into focused teams, each with ownership over specific applicati
 |---|---|
 | **Business Intelligence** | ETL pipelines, data integration, and reporting & analytics |
 | **Custom Development** | Internal web application development |
-| **GIS** | Geographic information systems & spatial data |
 | **Web** | Web presence & content management |
+| **GIS** | Geographic information systems & spatial data |
+| **OT** | Monitor and control physical devices, machinery, and industrial processes |
 | **Information Technology** | Enterprise application support & administration |
 | **Business Processes & Project Management** | Process improvement & organizational change |
 
@@ -31,12 +32,11 @@ BIT is organized into focused teams, each with ownership over specific applicati
 
 > 🔒 Our repositories are private. Browse by team below.
 
-- 📊 Business Intelligence *(link coming soon)*
-- 💻 Custom Development *(link coming soon)*
-- 🗺️ GIS *(link coming soon)*
-- 🌐 Web *(link coming soon)*
-- 🖥️ Information Technology *(link coming soon)*
-- 📋 Business Processes & Project Management *(link coming soon)*
+- 📊 [Business Intelligence](https://github.com/orgs/UWF-BIT/teams/business-intelligence)
+- 💻 [Custom Development](https://github.com/orgs/UWF-BIT/teams/custom-development)
+- 🌐 [Web](https://github.com/orgs/UWF-BIT/teams/web-development)
+- 🗺️ [GIS](https://github.com/orgs/UWF-BIT/teams/gis)
+- 🏭 [OT](https://github.com/orgs/UWF-BIT/teams/ot)
 
 ---
 
@@ -55,6 +55,9 @@ BIT is organized into focused teams, each with ownership over specific applicati
 **Application Development**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Web Development**
+
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
 
 **Infrastructure**
@@ -86,7 +89,7 @@ For support requests and project inquiries, please reach out to:
 
 **Email: [uwftech@uw.edu](mailto:uwftech@uw.edu)**
 
-Requests are routed through **Ryan Hutcheson** — [rshutch@uw.edu](mailto:rshutch@uw.edu)
+When requesting changes to the GitHub organization, please ensure your requests are routed through **Ryan Hutcheson** — [rshutch@uw.edu](mailto:rshutch@uw.edu)
 
 For more about BIT, visit our [unit page on UW Facilities](https://facilities.uw.edu/units/business-innovation-technology).
 
